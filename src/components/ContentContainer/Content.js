@@ -37,11 +37,11 @@ class Content extends Component {
         <section>
           <h3>Why Am I Here ?</h3>
           <p>
-            We are Phi Guy
+            I am Phi Guy
 
             <br /><br />
 
-            We took an interest in the 
+            I took an interest in the 
             <a rel="noopener noreferrer" href='https://www.peerplays.com' target='_blank'> PeerPlays</a> 
             project in June of 2018. 
 
@@ -52,7 +52,7 @@ class Content extends Component {
             <br /><br />
             
             After doing our initial research and analysis on the platform, 
-            we have decided to become witnesses on the blockchain. 
+            I have decided to become witnesses on the blockchain. 
 
             <br /><br />
 
