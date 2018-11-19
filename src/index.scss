@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Allerta+Stencil');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+h1 {
+  height: 128px;
+  line-height: 172px;
+  font-size: 3.5em;
+}
+
+h1, h2, h3 {
+  font-family: 'Allerta Stencil', sans-serif;
+}
+
+h2, h3 {
+  text-align: center;
+  padding: 10px;
+  margin: 0;
+}
+
+#headerRow {
+  border-bottom: 1px dotted black;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+}
+
+#socialRow {
+  height: 100%;
+}
+
+#content {
+  section {
+    margin-top: 25px;
+
+    p {
+      padding: 25px;
+      font-size: 1.25em;
+    }
+
+    h2, h3 {
+      text-align: left;
+    }
+  }
+}
+
+.socialIcon {
+  display: inline-block;
+  height: 100%;
+  width: 72px;
+}
+
+#footer {  
+  border-top: 1px dotted black;
+  text-align: center;
+
+  #footerContent {
+    margin: 25px 0px 25px 0px;
+  }
+}
