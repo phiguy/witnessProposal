@@ -10,9 +10,11 @@ class Tech extends Component {
         <hr />
         <h3>Alice</h3>
         <ul>
-          <li>Seed: <span>Coming ...</span></li>
+          <li>Seed:&nbsp;
+            <a rel='noopener noreferrer' target='_blank' href='http://35.159.10.69:8888'>ws://35.159.10.69:8888</a>
+          </li>
           <li>API:&nbsp;
-              <a rel='noopener noreferrer' target='_blank' href='http://52.59.217.195:8010/isalive'>ws://35.159.10.69:8090</a>
+              <a rel='noopener noreferrer' target='_blank' href='http://35.159.10.69:8090'>ws://35.159.10.69:8090</a>
           </li>
           <li>BOS: <span>Coming ...</span></li>
           <li><b>Name: </b>phi-guy</li>

@@ -41,9 +41,7 @@ class Content extends Component {
 
             <br /><br />
 
-            I took an interest in the 
-            <a rel="noopener noreferrer" href='https://www.peerplays.com' target='_blank'> PeerPlays</a> 
-            project in June of 2018. 
+            I took an interest in the <a rel="noopener noreferrer" href='https://www.peerplays.com' target='_blank'>PeerPlays</a> project in June of 2018. 
 
             <br /><br />
 
@@ -82,8 +80,7 @@ class Content extends Component {
               <li>Maintain a Full Node ( Witness, Seed, API, BOS )</li>
               <li>Maintain a node on the main net and the testnet</li>
               <li>Respond to issues in a reasonable amount of time</li>
-              <li>Participate in the open sourced codebases such as the 
-                <a rel="noopener noreferrer" href='https://github.com/PBSA/peerplays-core-gui' target='_blank'> Peerplays Wallet</a>
+              <li>Participate in the open sourced codebases such as the <a rel="noopener noreferrer" href='https://github.com/PBSA/peerplays-core-gui' target='_blank'>Peerplays Wallet</a>
               </li>
             </ul>
           </p>
