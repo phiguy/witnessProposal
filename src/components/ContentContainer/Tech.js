@@ -26,7 +26,7 @@ class Tech extends Component {
         <ul>
           <li>Seed: <span>Coming ...</span></li>
           <li>API:&nbsp;
-            <a rel='noopener noreferrer' target='_blank' href='http://52.59.217.195:8090'>http://52.59.217.195:8090</a>
+            <a rel='noopener noreferrer' target='_blank' href='https://api.phiguy.info'>https://api.phiguy.info</a>
           </li>
           <li>BOS:&nbsp;
               <a rel='noopener noreferrer' target='_blank' href='http://52.59.217.195:8010/isalive'>http://52.59.217.195:8010/isalive</a>

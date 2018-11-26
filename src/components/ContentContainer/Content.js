@@ -20,7 +20,7 @@ class Content extends Component {
 
             <br /><br />
 
-            I have been developing my own trading bots, interfaces, algorthms and personal projects to better help me understand the markets, ecosystem and blockchanin world as a whole. 
+            I have been developing my own trading bots, interfaces, algorthms and personal projects to better help me understand the markets, ecosystem and blockchain in the world as a whole. 
       
             <br /><br />
 
@@ -28,7 +28,7 @@ class Content extends Component {
 
             <br /><br />
 
-            I am a full stack developer who loves having their hand in very part of the system.
+            I am a full stack developer who loves having their hand in every part of the system.
           </p>
         </section>
 
